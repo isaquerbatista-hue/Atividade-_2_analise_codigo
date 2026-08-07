@@ -1,4 +1,4 @@
-#Atividade 1: Fundamentos do Teste de Software
+# Atividade 1: Fundamentos do Teste de Software
 
 ## 🛠️ O que foi usado
 * **Linguagem Python 3:** Para análise das regras de negócio do módulo de inscrição e checkout.
